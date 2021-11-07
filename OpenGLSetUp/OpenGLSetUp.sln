@@ -6,8 +6,6 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-     		ConfigName.0 = Debug
-    		ConfigName.1 = Release
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E4297B23-823E-41E6-9DB0-DF1B12D929F6}
